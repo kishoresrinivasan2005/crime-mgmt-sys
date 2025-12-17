@@ -7,7 +7,8 @@ HARISH PERUMAL(RA2311008020095)
 MOHESH S(RA2311008020124)
 ARJUN R K(RA2311008020130)
 SANJAY K(RA2311008020135)
-HAYDEN JOSEPH(RA2311008020151).
+HAYDEN JOSEPH(RA2311008020151) 
+UNDER THE GUIDANCE OF MOHANKUMAR(LEARNSQUARE)
 
 Run this code in a <a href="https://jupyter.org/">Jupyter Notebook</a> and also connect the database (.db) file with an <a href="https://sqlitebrowser.org/dl/">SQLite Browser</a> to see the changes.
 
